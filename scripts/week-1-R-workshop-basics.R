@@ -16,7 +16,7 @@ data("NHANES") # we are using the National Health and Nutrition Examination Surv
 df.raw <- NHANES # now, let's assign it a name to keep the raw data intact
 
 ### alternatively you can call in data from a csv like this
-df.raw.csv <- read.csv("~/Downloads/example_file.csv") # replace w/ actual filename
+# df.raw.csv <- read.csv("~/Downloads/example_file.csv")
 
 # step 4: data cleaning
 df.cleaned <- df.raw %>% # assign a new name for the cleaned dataframe
