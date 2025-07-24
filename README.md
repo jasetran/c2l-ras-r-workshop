@@ -38,7 +38,7 @@ install.packages(c(
 ## Learning Path
 
 ### Week 1: R Basics
-- `basics/01_introduction.R` - R interface, basic operations, cleaning data usiny dplyr
+- `scripts/week-1-R-workshop-basics.R` - R interface, basic operations, cleaning data usiny dplyr
 
 ## How to Use This Repository
 
